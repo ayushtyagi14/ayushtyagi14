@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ayushtyagi14
 - 🌱 I’m currently learning Web Development
-- 📫 How to reach me [Portfolio](https://portfolio-ayushtyagi14.vercel.app/)
+- 📫 How to reach me ayush.tyagi145@gmail.com
+- [Portfolio](https://portfolio-ayushtyagi14.vercel.app/)
 
 <!---
 ayushtyagi14/ayushtyagi14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
