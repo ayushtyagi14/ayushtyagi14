@@ -1,5 +1,10 @@
-- 👋 Hi, I’m @ayushtyagi14
-- 🌱 I’m currently learning Web Development
+# HELLO THERE! 👋
+
+## About Me
+- 👋 Hi, I’m Ayush Tyagi
+- 💻 I’m a Web Developer
+- 🎓 I am pursuing Btech in Computer Science Engineering
+- 🌱 I’m currently learning ExpressJS and MySQL
 - 📫 How to reach me ayush.tyagi145@gmail.com
 - [Portfolio](https://portfolio-ayushtyagi14.vercel.app/)
 
