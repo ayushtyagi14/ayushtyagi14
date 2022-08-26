@@ -4,7 +4,7 @@
 - 👋 Hi, I’m Ayush Tyagi
 - 💻 I’m a Web Developer
 - 🎓 I am pursuing Btech in Computer Science Engineering
-- 🌱 I’m currently learning ExpressJS and MySQL
+- 🌱 I’m currently learning ExpressJS and MongoDB
 - 📫 How to reach me ayush.tyagi145@gmail.com
 
 <!---
